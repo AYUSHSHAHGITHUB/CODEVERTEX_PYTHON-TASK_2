@@ -28,7 +28,8 @@ This project is a Python implementation of the classic game Rock-Paper-Scissors.
 
 # python rock_paper_scissors.py
 
-git clone 
+
+git clone (https://github.com/AYUSHSHAHGITHUB/CODEVERTEX_PYTHON-TASK_2.git)
    
 
 6. Follow the on-screen instructions to play the game.
